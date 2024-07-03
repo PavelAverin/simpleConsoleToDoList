@@ -1,6 +1,6 @@
-# simpleConsoleToDoList
-### Elementary ToDoList based on a console application.
-1. You can add tasks
-2. Delete tasks
-3. The available list of tasks is automatically displayed
-#### This is a training project. In the future, I plan to upgrade this project.
+# Простой ToDo List
+### Простейший список задач, основанный на консольном приложении, который имеет следующий функционал:
+1. Добавление новых задач
+2. Удаление задач
+3. Автоматический вывод списка задач
+#### Это учебный проект. В дальнейшем, возможно, буду его апгрейдить.
