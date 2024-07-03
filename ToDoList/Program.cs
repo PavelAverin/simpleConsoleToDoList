@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace ToDoList
+﻿namespace ToDoList
 {
     class Program
     {
@@ -48,7 +46,6 @@ namespace ToDoList
                 Console.Write("Ваш выбор: ");
 
                 string? strChoice = Console.ReadLine();
-
                 Int32.TryParse(strChoice, out int intChoice);
 
                 switch (intChoice)
